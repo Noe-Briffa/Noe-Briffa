@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Noe-Briffa/github-self-generating-profile/main/assets/profile.svg" alt="Profil GitHub de Noe-Briffa : portrait ASCII, projets, activité et technologies" width="100%" />
+  <img src="https://raw.githubusercontent.com/Noe-Briffa/github-self-generating-profile/refs/heads/main/assets/profile.svg" alt="Profil GitHub de Noe-Briffa : portrait ASCII, projets, activité et technologies" width="100%" />
 </p>
 
 <p align="center">
